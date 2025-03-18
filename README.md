@@ -1,9 +1,9 @@
 # Roman Matveev
 
 **iOS Developer | 8+ years of experience**  
-📞 +381 (638) 351 163 | 🌍 GMT+1  
+📞 [+381 (638) 351 163](tel:+381638351163) | 🌍 GMT+1  
 📧 matveev.roman.job@gmail.com  
-🔗 [LinkedIn](#) | 🔗 [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/matveev-roman/) | 🔗 [GitHub](https://github.com/overcout/overcout)
 
 ---
 
@@ -34,7 +34,7 @@ Improved app stability by increasing crash-free rates through automated testing 
 
 ## Experience
 
-### **Tabby**  
+### **[Tabby](https://tabby.ai/en-AE)**  
 **03/2023 - Present | 2+ years**  
 - Designed and implemented a Server-Driven UI library, significantly enhancing deployment speed and flexibility, reducing feature rollout time from 14 days to 1-2 days.  
 - Mentored junior and mid-level developers, streamlining their onboarding process and cutting the time to full productivity from 2 months to 1 month.  
@@ -44,7 +44,7 @@ Improved app stability by increasing crash-free rates through automated testing 
 
 ---
 
-### **Ozon**  
+### **[Ozon](https://corp.ozon.com/)**  
 **09/2021 - 03/2023 | 1.5 years**  
 - Served as an on-call support engineer, maintaining an average response time of under 3 hours for resolving customer-reported issues.  
 - Built a high-tech design system library with a focus on ultra-fast rendering, boosting rendering performance by 31%.  
@@ -54,7 +54,7 @@ Improved app stability by increasing crash-free rates through automated testing 
 
 ---
 
-### **Sberbank**  
+### **[Sberbank](https://www.sberbank.com/about)**  
 **07/2018 - 09/2021 | 3.2 years**  
 - Developed a chatbot for assessing client risk profiles and delivering personalized investment recommendations, enhancing financial literacy and increasing the bank’s investment revenue by 8%.  
 - Optimized CI/CD pipelines by configuring agents on Mac Mini, accelerating code integration speed for a 20-developer team by 5x.  
@@ -65,12 +65,12 @@ Improved app stability by increasing crash-free rates through automated testing 
 
 ---
 
-### **EPAM**  
+### **[EPAM](https://www.epam.com/)**  
 **04/2016 - 07/2018 | 2.3 years**  
 
 ---
 
-### **Kaspersky**  
+### **[Kaspersky](https://www.kaspersky.com/)**  
 **01/2014 - 04/2016 | 2.4 years**  
 
 ---
@@ -89,6 +89,6 @@ Computer and Information Systems Security. Information Assurance
 
 ## Personal Brand
 
-- Active contributor to the iOS blog.  
-- Own a YouTube Channel with IT tutorials.  
-- Run a profitable software business for gaming communities alongside iOS development.  
+- Active contributor to the iOS [blog](https://t.me/ios_broadcast).  
+- Own a [YouTube](https://www.youtube.com/@romanmatveev7449) Channel with IT tutorials.  
+- Run a profitable software [business](https://rfgames.org/) for gaming communities alongside iOS development.  
